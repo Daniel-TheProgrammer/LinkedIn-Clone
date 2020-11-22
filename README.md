@@ -1,2 +1,2 @@
-# LinkedIn-Clone
+# LinkedIn_Clone
 # Daniel_TheProgrammer
